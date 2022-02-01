@@ -1,2 +1,2 @@
 # hello
-Web Programming with Pptython and JavaScri
+Web Programming with Pptython and JavaScript
